@@ -27,7 +27,7 @@ for i = 1:num
         % matrix which takes the feature vectors of the query image and the
         % image to which we are comparing as the function parameters
         sum = calc(queryfvec, imfvec);
-        % 1.4 is the threshold value and sum>0 is included to avoid the input image in the output
+        % 0.680 is the threshold value and sum>0 is included to avoid the input image in the output
         % see end of code to know more how the threshold value was found
     if (sum<0.680 && sum>0)
         imresults = [imresults, sum];
