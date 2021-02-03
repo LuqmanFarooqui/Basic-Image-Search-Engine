@@ -1,4 +1,4 @@
-# Image-Search-Engine
+# Basic Image Search Engine
 This MATLAB code is the implementation of a basic image search engine.
 
 ### Instructions
