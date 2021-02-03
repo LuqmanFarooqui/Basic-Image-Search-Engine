@@ -12,7 +12,7 @@ Demo input:
 
 <img src="demo_pics/ip.jpg" alt="Demo input" width="400" height="166"/>
 
-Images in order of decreasing similarity:
+Demo output images in order of decreasing similarity:
 
 <img src="demo_pics/op1.jpg" alt="Output 1" width="400" height="166"/>
 
